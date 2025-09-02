@@ -1,5 +1,8 @@
 streamlit
 python-dotenv
+pinecone-client
+cohere
 langchain
+langchain-openai
 openai
 faiss-cpu
