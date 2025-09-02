@@ -1,6 +1,6 @@
 streamlit
 python-dotenv
-pinecone-client
+pinecone
 cohere
 langchain
 langchain-openai
